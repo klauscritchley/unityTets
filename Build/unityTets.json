@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "New Unity Project",
+"productName": "Adventure",
 "productVersion": "0.1",
 "dataUrl": "unityTets.data.unityweb",
 "wasmCodeUrl": "unityTets.wasm.code.unityweb",
